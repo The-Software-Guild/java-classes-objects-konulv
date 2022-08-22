@@ -8,6 +8,6 @@ public class Dvd{
     private String mpaa;
     private String director;
     private String studio;
-    private String userRating;
+    private String userRating; //realisticly this should be its own class
 
 }
