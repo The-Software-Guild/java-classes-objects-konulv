@@ -3,3 +3,4 @@ src/test/
 src/main/resources/
 src/main/webapp/
 .vscode/
+src/main/java/me/rim/test.java
